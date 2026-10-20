@@ -1,7 +1,7 @@
 <h1 align="center">Razieh Moradi</h1>
 
 <p align="center">
-  <b>PhD Researcher · AI and LLM Security</b><br>
+  <b> Researcher · AI and LLM Security</b><br>
   University of Guelph, School of Engineering &nbsp;·&nbsp; Vector Institute &nbsp;·&nbsp; Cyber Science Lab
 </p>
 
