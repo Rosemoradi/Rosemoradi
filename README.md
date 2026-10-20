@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Researcher · AI and LLM Security</b><br>
-  Cyber Science Lab &nbsp;·&nbsp; University of Guelph
+  Cyber Science Lab &nbsp;·&nbsp
 </p>
 
 <p align="center">
