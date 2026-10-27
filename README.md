@@ -265,9 +265,9 @@ A working hardware prototype that reminds users to take medication and dispenses
 
 ## Education
 
-| Degree | Institution | Years |
-|---|---|---|
-| **MEng** Systems Technology, Smart Systems and AI | McMaster University | 2024 to 2026 |
+| Degree |
+|---|
+| **MEng** Systems Technology, Smart Systems and AI
 | **MSc** Industrial Engineering 
 | **BSc** Industrial Engineering
 
